@@ -18,11 +18,9 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className={"mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"}
       >
-        I'm a grade 12 high school student who is interested in both software
-        and hardware developing. I expertise in programming language and
-        frameworks of Python, Javascript, Java and C. I am looking forward to
-        learn more about myself and computer related topics through experience
-        and opportunities in the future!
+        I am a 16 years old developer who is interest in both software and hardware developing. 
+        I have in-depth study of C, C++, and Python-related programming knowledge. In addition, I am also learning hardware knowledge at Dimwave Tech to develop a touch panel based on NXP. 
+        I am engaged in AI research at CGSH's CKCSC, and my expertise is in computer vision and software-hardware interaction. Related successful cases are CGSH's science exhibition, PhantomLight, and the SigmaGO being developed.
       </motion.p>
     </>
   );
